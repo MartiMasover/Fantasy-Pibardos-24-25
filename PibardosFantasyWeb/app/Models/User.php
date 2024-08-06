@@ -52,4 +52,8 @@ class User extends Authenticatable
                     ->withTimestamps();
     }
 
+    ################################
+    #           FUNCIONS           #
+    ################################
+
 }
